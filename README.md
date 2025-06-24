@@ -14,6 +14,5 @@ TravelEase is a full-stack travel booking application that provides a seamless p
 **Frontend:** React, Tailwind CSS, Axios  
 **Backend:** Node.js, Express.js, MongoDB  
 **Authentication:** JWT (JSON Web Tokens)  
-**Additional:** WebSocket (optional real-time feature), RESTful APIs, Redux (if used)
 
-## 📂 Project Structure
+
